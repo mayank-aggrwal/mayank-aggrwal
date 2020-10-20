@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on my personal projects, and studing at the same time!
 - 💬 Ask me about tech related stuff
-- 🎭 Fun fact: I love Fitness🏋️‍♂️ / playing Cricket / and Discovery🌍
 
 ### Connect with me:
 
