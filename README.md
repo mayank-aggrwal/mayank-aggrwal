@@ -13,7 +13,6 @@
 
 <br />
 
---- 
 
 ### Languages and Tools:
 
@@ -30,8 +29,6 @@
 
 <br />
 <br />
-
---- 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayank-aggrwal&show_icons=true&hide_border=true)
 
