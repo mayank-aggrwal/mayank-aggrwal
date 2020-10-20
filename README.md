@@ -32,7 +32,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mayank-aggrwal&style=flat)
 
-[linkedin]: www.linkedin.com/in/mayank-agg
+[linkedin]: https://www.linkedin.com/in/mayank-agg/
 [github]: https://github.com/mayank-aggrwal
 <!--
 **mayank-aggrwal/mayank-aggrwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
