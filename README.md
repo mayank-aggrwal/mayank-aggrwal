@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer
 
-- 🔭 I’m currently working on my personal projects, and studing at the same time!
+- 🔭 I’m currently working on my personal projects, and studying at the same time!
 - 💬 Ask me about tech related stuff
 
 ### Connect with me:
