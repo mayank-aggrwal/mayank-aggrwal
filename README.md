@@ -1,9 +1,23 @@
-## Hi there 👋, Mayank Aggarwal
+<h1 align="center" style="background:red"> 
+  <img src="https://github.com/mayank-aggrwal/mayank-aggrwal/blob/main/hi.gif" alt="hello-gif" height=310px width=335px style="max-width=40px"> 
+  <br>
+  I'm <a href="https://www.linkedin.com/in/mayank-agg/">Mayank Aggarwal</a>
+</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/mayankaggarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-agg/)
+[![Gmail Badge](https://img.shields.io/badge/aggarwal.mayank49@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:aggarwal.mayank49@gmail.com)
+[![Github Badge](https://img.shields.io/badge/mayankaggrwal-30302f?style=flat&logo=github)](https://github.com/mayank-aggrwal/)
+[![Leetcode Badge](https://img.shields.io/badge/mayank_aggarwal-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ronann/)
+[![Hackerrank Badge](https://img.shields.io/badge/@mayankag181-30302f?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mayankag181)
+![](https://komarev.com/ghpvc/?username=mayank-aggrwal&style=flat)
+
+
+## Hi there 👋,
 
 ### I'm a Student, Developer
 
 - 🔭 I’m currently working on my personal projects, and studying at the same time!
-- 💬 Ask me about tech related stuff
+- 💬 Ask me about anything
 
 ### Connect with me:
 
@@ -32,9 +46,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayank-aggrwal&show_icons=true&hide_border=true)
 
-
-
-![](https://komarev.com/ghpvc/?username=mayank-aggrwal&style=flat)
 
 [linkedin]: https://www.linkedin.com/in/mayank-agg/
 [github]: https://github.com/mayank-aggrwal
