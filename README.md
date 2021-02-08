@@ -22,21 +22,19 @@
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [aggarwal.mayank49@gmail.com](mailto:aggarwal.mayank49@gmail.com).
-- 🔗 My portfolio: [Mayank](http://mayankagg.me/).
-
-<br>
-<br>
-
+- 🔗 My portfolio: [Mayank](http://mayankagg.me/).  
 
 **Connect with me:**
 
 <!-- [<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
+  
+<br>  
+&nbsp;  
 
-<br />
-
-
+  
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayank-aggrwal&show_icons=true&hide_border=true)
 
 
