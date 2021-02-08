@@ -24,8 +24,9 @@
 - 📫 How to reach me: [aggarwal.mayank49@gmail.com](mailto:aggarwal.mayank49@gmail.com).
 - 🔗 My portfolio: [Mayank](http://mayankagg.me/).
 
-
-**Connect with me:***
+<br>
+<br>
+**Connect with me:**
 
 <!-- [<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,9 +34,6 @@
 
 <br />
 
-
-<br />
-<br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayank-aggrwal&show_icons=true&hide_border=true)
 
