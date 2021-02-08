@@ -14,10 +14,16 @@
 
 ## Hi there 👋,
 
-### I'm a Student, Developer
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/mayank-aggrwal/mayank-aggrwal/blob/main/2.gif" />
+
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently working on my personal projects, and studying at the same time!
-- 💬 Ask me about anything
+- 🌱 I’m currently learning Web Development.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [aggarwal.mayank49@gmail.com](mailto:aggarwal.mayank49@gmail.com).
+- 🔗 My portfolio: [Mayank](http://mayankagg.me/).
+
 
 ### Connect with me:
 
